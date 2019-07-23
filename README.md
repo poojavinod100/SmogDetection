@@ -7,4 +7,5 @@ Smog folder contains images of smog/fog/unclear visibility conditions on roads.
 Clear folder contains images of clear/visible conditions on roads
 
 22/7/19:20 images uploaded to Smog folder, 20 images uploaded to Clear folder
+
 23/7/19:20 new images uploaded to Smog folder, 20 new images uploaded to Clear folder
