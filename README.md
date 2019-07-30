@@ -19,3 +19,7 @@ Total number of images contributed:220
 26/7/19:20 new images uploaded to Smog folder, 20 new images uploaded to Clear folder
 
 27/7/19:20 new images uploaded to Smog folder, 20 new images uploaded to Clear folder
+
+29/7/19:Deleted a few images from 'Smog' folder based on recommendations for the dataset specification. 
+
+30/7/19:Deleted a few images from 'Smog' folder based on recommendations for the dataset specification. 
